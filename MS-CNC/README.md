@@ -35,3 +35,6 @@ Code
 "test_Blog.py" is an example case of the cross-network node classification task from Blog1 to Blog2 networks.
 
 "test_citation.py" is an example case of the cross-network node classification task from citationv1 to dblpv7 networks.
+
+
+缺文件的话去实验室硬盘备份的文件中寻找
